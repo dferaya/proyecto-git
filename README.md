@@ -1,1 +1,1 @@
-Creación del archivo y primer commit
+Edición de README desde la rama desarrollo
