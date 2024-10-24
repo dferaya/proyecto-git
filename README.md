@@ -1,1 +1,1 @@
-Creación del archivo y primer commit
+Edición de archivo README desde la rama master
